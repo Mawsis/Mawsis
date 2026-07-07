@@ -27,9 +27,3 @@
 ### Reach me
 
 [mawsis.dev](https://mawsis.dev) · [LinkedIn](https://linkedin.com/in/wassim-khouas-b61157283) · khouaswassimali@gmail.com
-
-<br>
-
-<a href="https://github.com/Mawsis">
-  <img height="150" alt="Wassim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mawsis&show_icons=true&hide_border=true&theme=dark&hide=contribs&count_private=true" />
-</a>
