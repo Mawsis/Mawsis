@@ -6,8 +6,8 @@
 
 ### Currently
 
-- Co-founder and lead engineer at **QarrAi**, an EdTech mobile app scaled to 20,000+ active users.
-- Building developer tooling in Go and TypeScript. Writing about it at [mawsis.dev](https://mawsis.dev).
+- Co-founder and lead engineer at **QarrAi**, an EdTech mobile app scaled to 20,000+ active users, with a RAG pipeline at its core.
+- Building developer tooling in Go and TypeScript, including agentic tooling for Claude Code. Writing about it at [mawsis.dev](https://mawsis.dev).
 
 ### Selected work
 
@@ -20,7 +20,8 @@
 
 ### Stack
 
-**Backend** Python · FastAPI · Laravel · Node · Express · Go · REST APIs · RAG / LLM pipelines
+**Backend** Python · FastAPI · Laravel · Node · Express · Go · REST APIs
+**AI** RAG / LLM pipelines · vector search · agentic workflows · Claude Code · MCP
 **Frontend** Flutter · React · TypeScript · JavaScript
 **DevOps** Docker · Terraform · Ansible · CI/CD · Nginx · GCP · AWS · Prometheus · Grafana
 
