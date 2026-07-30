@@ -69,10 +69,12 @@ A PHP MVC framework built from scratch: router, ORM, migrations, middleware, JWT
 
 ### Stack
 
-**Backend**&nbsp;&nbsp;Python · FastAPI · Laravel · Node · Express · Go · REST APIs
-**AI**&nbsp;&nbsp;RAG / LLM pipelines · vector search · agentic workflows · Claude Code · MCP
-**Frontend**&nbsp;&nbsp;Flutter · React · TypeScript · JavaScript
-**DevOps**&nbsp;&nbsp;Docker · Terraform · Ansible · CI/CD · Nginx · GCP · AWS · Prometheus · Grafana
+| | |
+| --- | --- |
+| **Backend** | Python · FastAPI · Laravel · Node · Express · Go · REST APIs |
+| **AI** | RAG / LLM pipelines · vector search · agentic workflows · Claude Code · MCP |
+| **Frontend** | Flutter · React · TypeScript · JavaScript |
+| **DevOps** | Docker · Terraform · Ansible · CI/CD · Nginx · GCP · AWS · Prometheus · Grafana |
 
 ---
 
